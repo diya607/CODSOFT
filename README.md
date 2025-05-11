@@ -1,5 +1,5 @@
 # CodSoft
-# Java Developement
+# Java Programming
 
 # Course Registration System
 A simple Java console application for registering, dropping, and viewing courses. Handles course capacity and student enrollment using object-oriented programming.
